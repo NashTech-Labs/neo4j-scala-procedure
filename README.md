@@ -6,7 +6,7 @@ This repository contains the basic starter app for creating Neo4j procedure With
 
 ## Prerequisites:
 
-Neo4j database must have been installed on your system and the password can be set in the Neo4j.scala file. If yopu have not downloaded it See the link [here](https://neo4j.com/download/)
+Neo4j database must have been installed on your system and the password can be set in the Neo4j.scala file. If you have not downloaded it See the link [here](https://neo4j.com/download/)
 
 ## How to run this :
 
